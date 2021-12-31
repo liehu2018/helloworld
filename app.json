@@ -1,0 +1,22 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "6ea5320b-674b-47c9-a83b-b25a626a0741"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "128"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/liehu2018/helloworld",
+    "repository": "https://github.com/liehu2018/helloworld",
+    "stack": "container"
+}
